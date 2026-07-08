@@ -1,0 +1,58 @@
+# =========================
+# Runtime artifacts
+# =========================
+*.dmp
+*FatalLog*.txt
+ExceptionHandlerInfo.log
+
+# Server log folders
+Log/Dump/**
+Log/FatalLog/**
+Log/ReportLog/**
+Log/Archive/**
+
+# Operational outputs
+SMC/SMCReportLog_*.txt
+
+# =========================
+# Temporary files
+# =========================
+*.tmp
+*.temp
+*.bak
+*.old
+*.orig
+
+# =========================
+# Windows / Editor
+# =========================
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.vscode/
+*.code-workspace
+
+# =========================
+# Visual Studio / .NET
+# =========================
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+[Bb]in/
+[Oo]bj/
+
+# =========================
+# Python cache (for ops scripts tools)
+# =========================
+__pycache__/
+*.pyc
+
+# =========================
+# Optional: local secret overrides
+# (keep template files versioned)
+# =========================
+*.local
+*.secret
+.env
+.env.*
