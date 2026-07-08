@@ -1,0 +1,9 @@
+; Sky Pixel Shader
+; (c) 2002 Nathaniel Hoffman, Kenneth J. Mitchell and Arcot J. Preetham
+
+ps.1.1
+
+; Sky is just the inscattering term.
+
+
+mov r0, v1	; Sky color is just inscattering term.

@@ -1,0 +1,322 @@
+#include "vss0.c"
+#include "vsm0.c"
+
+///////////////////////////////////////  FOGLINEAR 
+
+##0x00000000
+##VS_MAP_SKIN0_DEFAULT
+{
+	#define VS_VER_1_1
+	#define VS_DCL_SKIN0
+	#define VS_CONSTANT
+	#define VS_POS_NORMAL_SKIN0
+	#define VS_LIGHT_SKIN0_DIRECT
+	#define VS_UV_SKIN0_TEXTURE0
+	#define VS_FOG_SKIN0_LINEAR
+}
+
+
+##0x00000002
+##VS_MAP_DUV1
+{
+	#define VS_VER_1_1
+	#define VS_DCL_MAP_DUV1
+	#define VS_CONSTANT
+	#define VS_POS_NORMAL_SKIN0
+	#define VS_LIGHT_MAP_DUV
+	#define VS_UV_SKIN0_TEXTURE0
+	#define VS_FOG_SKIN0_LINEAR
+}
+
+
+##0x00000004
+##VS_MAP_SPLATTING
+{
+	#define VS_VER_1_1
+	#define VS_DCL_SKIN0
+	#define VS_CONSTANT
+	#define VS_POS_NORMAL_SKIN0
+	#define VS_LIGHT_SKIN0_DIRECT
+	#define VS_UV_MAP_SPLATTING
+	#define VS_FOG_SKIN0_LINEAR
+}
+
+
+##0x00000008
+##VS_MAP_UV1
+{
+	#define VS_VER_1_1
+	#define VS_DCL_MAP_UV1
+	#define VS_CONSTANT
+	#define VS_POS_NORMAL_SKIN0
+
+	#define VS_UV_SKIN0_TEXTURE0
+	#define VS_FOG_SKIN0_LINEAR
+}
+
+
+##0x00000010
+##VS_MAP_UV2
+{
+	#define VS_VER_1_1
+	#define VS_DCL_MAP_UV1
+	#define VS_CONSTANT
+	#define VS_POS_NORMAL_SKIN0
+	#define VS_LIGHT_MAP_UV2
+	#define VS_UV_MAP_SPLATTING
+	#define VS_FOG_SKIN0_LINEAR
+}
+
+
+##0x00000020
+##VS_MAP_UV3
+{
+	#define VS_VER_1_1
+	#define VS_DCL_MAP_UV3
+	#define VS_CONSTANT
+	#define VS_POS_NORMAL_SKIN0
+	#define VS_LIGHT_MAP_UV2
+	#define VS_UV_MAP_UV3
+	#define VS_FOG_SKIN0_LINEAR
+}
+
+///////////////////////////////////////  FOGLINEAR + HEIGHTFOG
+
+##0x00000080
+##VS_MAP_SKIN0_DEFAULT_HFOG
+{
+	#define VS_VER_1_1
+	#define VS_DCL_SKIN0
+	#define VS_CONSTANT
+	#define VS_POS_NORMAL_SKIN0
+	#define VS_LIGHT_SKIN0_DIRECT
+	#define VS_UV_SKIN0_TEXTURE0
+	#define VS_FOG_SKIN0_LINEAR+HEIGHT
+}
+
+
+##0x00000082
+##VS_MAP_DUV1_HFOG
+{
+	#define VS_VER_1_1
+	#define VS_DCL_MAP_DUV1
+	#define VS_CONSTANT
+	#define VS_POS_NORMAL_SKIN0
+	#define VS_LIGHT_MAP_DUV
+	#define VS_UV_SKIN0_TEXTURE0
+	#define VS_FOG_SKIN0_LINEAR+HEIGHT
+}
+
+
+##0x00000084
+##VS_MAP_SPLATTING_HFOG
+{
+	#define VS_VER_1_1
+	#define VS_DCL_SKIN0
+	#define VS_CONSTANT
+	#define VS_POS_NORMAL_SKIN0
+	#define VS_LIGHT_SKIN0_DIRECT
+	#define VS_UV_MAP_SPLATTING
+	#define VS_FOG_SKIN0_LINEAR+HEIGHT
+}
+
+
+##0x00000088
+##VS_MAP_UV1_HFOG
+{
+	#define VS_VER_1_1
+	#define VS_DCL_MAP_UV1
+	#define VS_CONSTANT
+	#define VS_POS_NORMAL_SKIN0
+
+	#define VS_UV_SKIN0_TEXTURE0
+	#define VS_FOG_SKIN0_LINEAR+HEIGHT
+}
+
+
+##0x00000090
+##VS_MAP_UV2_HFOG
+{
+	#define VS_VER_1_1
+	#define VS_DCL_MAP_UV1
+	#define VS_CONSTANT
+	#define VS_POS_NORMAL_SKIN0
+	#define VS_LIGHT_MAP_UV2
+	#define VS_UV_MAP_SPLATTING
+	#define VS_FOG_SKIN0_LINEAR+HEIGHT
+}
+
+
+##0x000000a0
+##VS_MAP_UV3_HFOG
+{
+	#define VS_VER_1_1
+	#define VS_DCL_MAP_UV3
+	#define VS_CONSTANT
+	#define VS_POS_NORMAL_SKIN0
+	#define VS_LIGHT_MAP_UV2
+	#define VS_UV_MAP_UV3
+	#define VS_FOG_SKIN0_LINEAR+HEIGHT
+}
+
+///////////////////////////////////////  FOGEXP
+
+
+##0x00000040
+##VS_MAP_SKIN0_DEFAULT_FOGEXP
+{
+	#define VS_VER_1_1
+	#define VS_DCL_SKIN0
+	#define VS_CONSTANT
+	#define VS_POS_NORMAL_SKIN0
+	#define VS_LIGHT_SKIN0_DIRECT
+	#define VS_UV_SKIN0_TEXTURE0
+	#define VS_FOG_SKIN0_EXP
+}
+
+
+##0x00000042
+##VS_MAP_DUV1_FOGEXP
+{
+	#define VS_VER_1_1
+	#define VS_DCL_MAP_DUV1
+	#define VS_CONSTANT
+	#define VS_POS_NORMAL_SKIN0
+	#define VS_LIGHT_MAP_DUV
+	#define VS_UV_SKIN0_TEXTURE0
+	#define VS_FOG_SKIN0_EXP
+}
+
+
+##0x00000044
+##VS_MAP_SPLATTING_FOGEXP
+{
+	#define VS_VER_1_1
+	#define VS_DCL_SKIN0
+	#define VS_CONSTANT
+	#define VS_POS_NORMAL_SKIN0
+	#define VS_LIGHT_SKIN0_DIRECT
+	#define VS_UV_MAP_SPLATTING
+	#define VS_FOG_SKIN0_EXP
+}
+
+
+##0x00000048
+##VS_MAP_UV1_FOGEXP
+{
+	#define VS_VER_1_1
+	#define VS_DCL_MAP_UV1
+	#define VS_CONSTANT
+	#define VS_POS_NORMAL_SKIN0
+
+	#define VS_UV_SKIN0_TEXTURE0
+	#define VS_FOG_SKIN0_EXP
+}
+
+
+
+##0x00000050
+##VS_MAP_UV2_FOGEXP
+{
+	#define VS_VER_1_1
+	#define VS_DCL_MAP_UV1
+	#define VS_CONSTANT
+	#define VS_POS_NORMAL_SKIN0
+	#define VS_LIGHT_MAP_UV2
+	#define VS_UV_MAP_SPLATTING
+	#define VS_FOG_SKIN0_EXP
+}
+
+
+##0x00000060
+##VS_MAP_UV3_FOGEXP
+{
+	#define VS_VER_1_1
+	#define VS_DCL_MAP_UV3
+	#define VS_CONSTANT
+	#define VS_POS_NORMAL_SKIN0
+	#define VS_LIGHT_MAP_UV2
+	#define VS_UV_MAP_UV3
+	#define VS_FOG_SKIN0_EXP
+}
+
+///////////////////////////////////////  FOGEXP
+
+
+##0x000000c0
+##VS_MAP_SKIN0_DEFAULT_FOGEXP_HFOG
+{
+	#define VS_VER_1_1
+	#define VS_DCL_SKIN0
+	#define VS_CONSTANT
+	#define VS_POS_NORMAL_SKIN0
+	#define VS_LIGHT_SKIN0_DIRECT
+	#define VS_UV_SKIN0_TEXTURE0
+	#define VS_FOG_SKIN0_LINEAR+HEIGHT
+}
+
+
+##0x000000c2
+##VS_MAP_DUV1_FOGEXP_HFOG
+{
+	#define VS_VER_1_1
+	#define VS_DCL_MAP_DUV1
+	#define VS_CONSTANT
+	#define VS_POS_NORMAL_SKIN0
+	#define VS_LIGHT_MAP_DUV
+	#define VS_UV_SKIN0_TEXTURE0
+	#define VS_FOG_SKIN0_LINEAR+HEIGHT
+}
+
+
+##0x000000c4
+##VS_MAP_SPLATTING_FOGEXP_HFOG
+{
+	#define VS_VER_1_1
+	#define VS_DCL_SKIN0
+	#define VS_CONSTANT
+	#define VS_POS_NORMAL_SKIN0
+	#define VS_LIGHT_SKIN0_DIRECT
+	#define VS_UV_MAP_SPLATTING
+	#define VS_FOG_SKIN0_LINEAR+HEIGHT
+}
+
+
+##0x000000c8
+##VS_MAP_UV1_FOGEXP_HFOG
+{
+	#define VS_VER_1_1
+	#define VS_DCL_MAP_UV1
+	#define VS_CONSTANT
+	#define VS_POS_NORMAL_SKIN0
+
+	#define VS_UV_SKIN0_TEXTURE0
+	#define VS_FOG_SKIN0_LINEAR+HEIGHT
+}
+
+
+##0x000000d0
+##VS_MAP_UV2_FOGEXP_HFOG
+{
+	#define VS_VER_1_1
+	#define VS_DCL_MAP_UV1
+	#define VS_CONSTANT
+	#define VS_POS_NORMAL_SKIN0
+	#define VS_LIGHT_MAP_UV2
+	#define VS_UV_MAP_SPLATTING
+	#define VS_FOG_SKIN0_LINEAR+HEIGHT
+}
+
+
+##0x000000e0
+##VS_MAP_UV3_FOGEXP_HFOG
+{
+	#define VS_VER_1_1
+	#define VS_DCL_MAP_UV3
+	#define VS_CONSTANT
+	#define VS_POS_NORMAL_SKIN0
+	#define VS_LIGHT_MAP_UV2
+	#define VS_UV_MAP_UV3
+	#define VS_FOG_SKIN0_LINEAR+HEIGHT
+}
+

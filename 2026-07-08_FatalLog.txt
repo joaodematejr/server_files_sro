@@ -1,0 +1,326 @@
+2026-07-08	14:21:57	[SR_ShardManager]	OnExit() Called
+2026-07-08	14:22:05	[SR_GameServer]	OnExit() Called
+2026-07-08	14:23:52	[SR_ShardManager]	OnExit() Called
+2026-07-08	14:23:57	[SR_GameServer]	OnExit() Called
+2026-07-08	14:24:27	cannot establish keep alive session : 127.0.0.1 15880 (bind 0.0.0.0)
+2026-07-08	14:24:30	cannot establish keep alive session : 127.0.0.1 15880 (bind 0.0.0.0)
+2026-07-08	14:24:33	cannot establish keep alive session : 127.0.0.1 15880 (bind 0.0.0.0)
+2026-07-08	14:24:36	cannot establish keep alive session : 127.0.0.1 15880 (bind 0.0.0.0)
+2026-07-08	14:24:39	cannot establish keep alive session : 127.0.0.1 15880 (bind 0.0.0.0)
+2026-07-08	14:24:42	cannot establish keep alive session : 127.0.0.1 15880 (bind 0.0.0.0)
+2026-07-08	14:24:45	cannot establish keep alive session : 127.0.0.1 15880 (bind 0.0.0.0)
+2026-07-08	14:24:48	cannot establish keep alive session : 127.0.0.1 15880 (bind 0.0.0.0)
+2026-07-08	14:24:51	cannot establish keep alive session : 127.0.0.1 15880 (bind 0.0.0.0)
+2026-07-08	14:24:54	cannot establish keep alive session : 127.0.0.1 15880 (bind 0.0.0.0)
+2026-07-08	14:25:03	[GlobalManager]	server cord established : 1 (192.168.1.101:32000)
+2026-07-08	14:25:03	[GlobalManager]	GlobalManager is initialized successfully
+2026-07-08	14:25:06	[GlobalManager]	server cord established : 2 (192.168.1.101:63150)
+2026-07-08	14:25:07	[GlobalManager]	server cord established : 3 (192.168.1.101:63153)
+2026-07-08	14:25:09	[GlobalManager]	server cord established : 4 (192.168.1.101:63158)
+2026-07-08	14:25:09	IBUV: StringSize: 0, CharSet: ABCDEF1234567890
+2026-07-08	14:25:09	IBUV: CharSet(ABCDEF1234567890)
+2026-07-08	14:25:09	IBUV: Preserved image created : (dwImageCount)
+2026-07-08	14:25:11	[GlobalManager]	server cord established : 5 (192.168.1.101:63163)
+2026-07-08	14:25:11	[FarmManager]	server cord established : 1 (192.168.1.101:15880)
+2026-07-08	14:25:11	[FarmManager]	FarmManager is initialized successfully
+2026-07-08	14:25:13	[FarmManager]	server cord established : 2 (192.168.1.101:63168)
+2026-07-08	14:25:13	[AgentServer]	server cord established : 1 (192.168.1.101:15882)
+2026-07-08	14:25:13	[AgentServer]	AgentServer is initialized successfully
+2026-07-08	14:25:15	[FarmManager]	server cord established : 3 (192.168.1.101:63174)
+2026-07-08	14:25:15	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	14:25:15	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	14:25:15	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	14:25:15	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	14:25:15	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	14:25:15	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	14:25:15	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	14:25:15	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	14:25:15	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	14:25:15	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	14:25:15	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	14:25:15	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	14:25:15	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	14:25:15	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	14:25:15	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	14:25:15	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	14:25:15	[SR_ShardManager]	server cord established : 1 (192.168.1.101:15882)
+2026-07-08	14:25:16	[SR_ShardManager]	server cord established : 2 (192.168.1.101:63177)
+2026-07-08	14:25:16	[AgentServer]	server cord established : 2 (192.168.1.101:15883)
+2026-07-08	14:25:18	[SR_ShardManager]	Not found RefServerEvent[30001]. Check service and date value. progress next data
+2026-07-08	14:25:18	[SR_ShardManager]	Not found RefServerEvent[30002]. Check service and date value. progress next data
+2026-07-08	14:25:18	[SR_ShardManager]	Not found RefServerEvent[30003]. Check service and date value. progress next data
+2026-07-08	14:25:18	[SR_ShardManager]	Not found RefServerEvent[30004]. Check service and date value. progress next data
+2026-07-08	14:25:18	[SR_ShardManager]	SR_ShardManager is initialized successfully
+2026-07-08	14:25:20	[FarmManager]	server cord established : 4 (192.168.1.101:63189)
+2026-07-08	14:25:20	[SR_GameServer]	server cord established : 1 (192.168.1.101:15882)
+2026-07-08	14:25:20	[SR_GameServer]	server cord established : 2 (192.168.1.101:63188)
+2026-07-08	14:25:21	[SR_ShardManager]	server cord established : 3 (192.168.1.101:63192)
+2026-07-08	14:25:21	[SR_GameServer]	server cord established : 3 (192.168.1.101:15883)
+2026-07-08	14:25:24	[SR_GameServer]	At initialize Server, Loading Siege data :: CurrentTax = 0
+2026-07-08	14:25:24	[SR_GameServer]	At initialize Server, Loading Siege data :: CurrentTax = 0
+2026-07-08	14:25:24	[SR_GameServer]	At initialize Server, Loading Siege data :: CurrentTax = 0
+2026-07-08	14:25:31	[SR_GameServer]	Not found RefServerEvent[30001]. Check service and date value. progress next data
+2026-07-08	14:25:31	[SR_GameServer]	Not found RefServerEvent[30002]. Check service and date value. progress next data
+2026-07-08	14:25:31	[SR_GameServer]	Not found RefServerEvent[30003]. Check service and date value. progress next data
+2026-07-08	14:25:31	[SR_GameServer]	Not found RefServerEvent[30004]. Check service and date value. progress next data
+2026-07-08	14:25:31	[SR_GameServer]	SR_GameServer is initialized successfully
+2026-07-08	14:26:11	[GlobalManager]	server cord closed : 1
+2026-07-08	14:26:13	[FarmManager]	server cord closed : 1
+2026-07-08	14:26:16	[SR_ShardManager]	server cord closed - SessionID(1), CordID(1235), OutletID(705), InletID(704), MyselfID(705)
+2026-07-08	14:26:16	[SR_GameServer]	Disconnected from FarmManager! [#704]
+2026-07-08	14:26:16	[AgentServer]	server cord closed : 1
+2026-07-08	14:26:16	[SR_GameServer]	server cord closed - SessionID(1), CordID(1239), OutletID(713), InletID(704), MyselfID(713)
+2026-07-08	14:26:17	[SR_ShardManager]	server cord closed - SessionID(2), CordID(1245), OutletID(707), InletID(705), MyselfID(705)
+2026-07-08	14:26:17	[SR_GameServer]	Disconnected from AgentServer! [#707]
+2026-07-08	14:26:17	[SR_GameServer]	At Shutdown Server, Save Siege data :: CurrentTax = 0
+2026-07-08	14:26:17	[SR_GameServer]	At Shutdown Server, Save Siege data :: CurrentTax = 0
+2026-07-08	14:26:17	[SR_GameServer]	At Shutdown Server, Save Siege data :: CurrentTax = 0
+2026-07-08	14:26:17	[SR_GameServer]	server cord closed - SessionID(2), CordID(1241), OutletID(707), InletID(713), MyselfID(713)
+2026-07-08	14:26:19	[SR_ShardManager]	OnExit() Called
+2026-07-08	14:27:14	[GlobalManager]	server cord established : 1 (192.168.1.101:32000)
+2026-07-08	14:27:14	[GlobalManager]	GlobalManager is initialized successfully
+2026-07-08	14:27:17	[GlobalManager]	server cord established : 2 (192.168.1.101:61606)
+2026-07-08	14:27:18	[GlobalManager]	server cord established : 3 (192.168.1.101:61609)
+2026-07-08	14:27:20	[GlobalManager]	server cord established : 4 (192.168.1.101:61617)
+2026-07-08	14:27:20	IBUV: StringSize: 0, CharSet: ABCDEF1234567890
+2026-07-08	14:27:20	IBUV: CharSet(ABCDEF1234567890)
+2026-07-08	14:27:20	IBUV: Preserved image created : (dwImageCount)
+2026-07-08	14:27:22	[GlobalManager]	server cord established : 5 (192.168.1.101:61622)
+2026-07-08	14:27:22	[FarmManager]	server cord established : 1 (192.168.1.101:15880)
+2026-07-08	14:27:22	[FarmManager]	FarmManager is initialized successfully
+2026-07-08	14:27:24	[FarmManager]	server cord established : 2 (192.168.1.101:61627)
+2026-07-08	14:27:24	[AgentServer]	server cord established : 1 (192.168.1.101:15882)
+2026-07-08	14:27:24	[AgentServer]	AgentServer is initialized successfully
+2026-07-08	14:27:26	[FarmManager]	server cord established : 3 (192.168.1.101:61633)
+2026-07-08	14:27:26	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	14:27:26	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	14:27:26	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	14:27:26	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	14:27:26	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	14:27:26	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	14:27:26	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	14:27:26	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	14:27:26	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	14:27:26	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	14:27:26	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	14:27:26	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	14:27:26	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	14:27:26	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	14:27:26	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	14:27:26	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	14:27:26	[SR_ShardManager]	server cord established : 1 (192.168.1.101:15882)
+2026-07-08	14:27:27	[SR_ShardManager]	server cord established : 2 (192.168.1.101:61636)
+2026-07-08	14:27:30	[SR_ShardManager]	Not found RefServerEvent[30001]. Check service and date value. progress next data
+2026-07-08	14:27:30	[SR_ShardManager]	Not found RefServerEvent[30002]. Check service and date value. progress next data
+2026-07-08	14:27:30	[SR_ShardManager]	Not found RefServerEvent[30003]. Check service and date value. progress next data
+2026-07-08	14:27:30	[SR_ShardManager]	Not found RefServerEvent[30004]. Check service and date value. progress next data
+2026-07-08	14:27:30	[SR_ShardManager]	SR_ShardManager is initialized successfully
+2026-07-08	14:27:31	[FarmManager]	server cord established : 4 (192.168.1.101:61648)
+2026-07-08	14:27:31	[SR_GameServer]	server cord established : 1 (192.168.1.101:15882)
+2026-07-08	14:27:31	[SR_GameServer]	server cord established : 2 (192.168.1.101:61647)
+2026-07-08	14:27:31	[AgentServer]	server cord established : 3 (192.168.1.101:15885)
+2026-07-08	14:27:32	[SR_ShardManager]	server cord established : 3 (192.168.1.101:61651)
+2026-07-08	14:27:32	[SR_GameServer]	server cord established : 3 (192.168.1.101:15883)
+2026-07-08	14:27:35	[SR_GameServer]	At initialize Server, Loading Siege data :: CurrentTax = 0
+2026-07-08	14:27:35	[SR_GameServer]	At initialize Server, Loading Siege data :: CurrentTax = 0
+2026-07-08	14:27:35	[SR_GameServer]	At initialize Server, Loading Siege data :: CurrentTax = 0
+2026-07-08	14:27:42	[SR_GameServer]	Not found RefServerEvent[30001]. Check service and date value. progress next data
+2026-07-08	14:27:42	[SR_GameServer]	Not found RefServerEvent[30002]. Check service and date value. progress next data
+2026-07-08	14:27:42	[SR_GameServer]	Not found RefServerEvent[30003]. Check service and date value. progress next data
+2026-07-08	14:27:42	[SR_GameServer]	Not found RefServerEvent[30004]. Check service and date value. progress next data
+2026-07-08	14:27:42	[SR_GameServer]	SR_GameServer is initialized successfully
+2026-07-08	14:28:43	[GlobalManager]	server cord closed : 1
+2026-07-08	14:28:47	[FarmManager]	server cord closed : 4
+2026-07-08	14:28:47	[FarmManager]	server cord closed : 2
+2026-07-08	14:28:47	[GlobalManager]	server cord closed : 5
+2026-07-08	14:28:48	[GlobalManager]	server cord closed : 4
+2026-07-08	14:28:48	[GlobalManager]	server cord closed : 3
+2026-07-08	14:28:49	[GlobalManager]	server cord closed : 2
+2026-07-08	14:29:30	[SR_ShardManager]	OnExit() Called
+2026-07-08	14:30:08	[GlobalManager]	server cord established : 1 (192.168.1.101:32000)
+2026-07-08	14:30:08	[GlobalManager]	GlobalManager is initialized successfully
+2026-07-08	14:30:11	[GlobalManager]	server cord established : 2 (192.168.1.101:55128)
+2026-07-08	14:30:12	[GlobalManager]	server cord established : 3 (192.168.1.101:55131)
+2026-07-08	14:30:14	[GlobalManager]	server cord established : 4 (192.168.1.101:55138)
+2026-07-08	14:30:14	IBUV: StringSize: 0, CharSet: ABCDEF1234567890
+2026-07-08	14:30:14	IBUV: CharSet(ABCDEF1234567890)
+2026-07-08	14:30:14	IBUV: Preserved image created : (dwImageCount)
+2026-07-08	14:30:16	[GlobalManager]	server cord established : 5 (192.168.1.101:55146)
+2026-07-08	14:30:16	[FarmManager]	server cord established : 1 (192.168.1.101:15880)
+2026-07-08	14:30:16	[FarmManager]	FarmManager is initialized successfully
+2026-07-08	14:30:18	[FarmManager]	server cord established : 2 (192.168.1.101:55156)
+2026-07-08	14:30:18	[AgentServer]	server cord established : 1 (192.168.1.101:15882)
+2026-07-08	14:30:18	[AgentServer]	AgentServer is initialized successfully
+2026-07-08	14:30:20	[FarmManager]	server cord established : 3 (192.168.1.101:55163)
+2026-07-08	14:30:20	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	14:30:20	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	14:30:20	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	14:30:20	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	14:30:20	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	14:30:20	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	14:30:20	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	14:30:20	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	14:30:20	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	14:30:20	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	14:30:20	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	14:30:20	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	14:30:20	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	14:30:20	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	14:30:20	[SR_ShardManager]	server cord established : 1 (192.168.1.101:15882)
+2026-07-08	14:30:20	[SR_ShardManager]	server cord established : 2 (192.168.1.101:55159)
+2026-07-08	14:30:20	[AgentServer]	server cord established : 2 (192.168.1.101:15883)
+2026-07-08	14:30:24	[SR_ShardManager]	Not found RefServerEvent[30001]. Check service and date value. progress next data
+2026-07-08	14:30:24	[SR_ShardManager]	Not found RefServerEvent[30002]. Check service and date value. progress next data
+2026-07-08	14:30:24	[SR_ShardManager]	Not found RefServerEvent[30003]. Check service and date value. progress next data
+2026-07-08	14:30:24	[SR_ShardManager]	Not found RefServerEvent[30004]. Check service and date value. progress next data
+2026-07-08	14:30:24	[SR_ShardManager]	SR_ShardManager is initialized successfully
+2026-07-08	14:30:25	[FarmManager]	server cord established : 4 (192.168.1.101:55180)
+2026-07-08	14:30:25	[SR_GameServer]	server cord established : 1 (192.168.1.101:15882)
+2026-07-08	14:30:25	[SR_GameServer]	server cord established : 2 (192.168.1.101:55174)
+2026-07-08	14:30:25	[AgentServer]	server cord established : 3 (192.168.1.101:15885)
+2026-07-08	14:30:26	[SR_ShardManager]	server cord established : 3 (192.168.1.101:55184)
+2026-07-08	14:30:26	[SR_GameServer]	server cord established : 3 (192.168.1.101:15883)
+2026-07-08	14:30:29	[SR_GameServer]	At initialize Server, Loading Siege data :: CurrentTax = 0
+2026-07-08	14:30:29	[SR_GameServer]	At initialize Server, Loading Siege data :: CurrentTax = 0
+2026-07-08	14:30:29	[SR_GameServer]	At initialize Server, Loading Siege data :: CurrentTax = 0
+2026-07-08	14:30:36	[SR_GameServer]	Not found RefServerEvent[30001]. Check service and date value. progress next data
+2026-07-08	14:30:36	[SR_GameServer]	Not found RefServerEvent[30002]. Check service and date value. progress next data
+2026-07-08	14:30:36	[SR_GameServer]	Not found RefServerEvent[30003]. Check service and date value. progress next data
+2026-07-08	14:30:36	[SR_GameServer]	Not found RefServerEvent[30004]. Check service and date value. progress next data
+2026-07-08	14:30:36	[SR_GameServer]	SR_GameServer is initialized successfully
+2026-07-08	14:38:54	[AgentServer]	713:SR_GameServer is blind : 0 users are banned
+2026-07-08	14:38:54	[FarmManager]	server cord closed : 4
+2026-07-08	14:38:54	[GlobalManager]	agent server is broken !!. all associated user is unregistered : 0
+2026-07-08	14:38:54	[SR_ShardManager]	server cord closed - SessionID(3), CordID(1256), OutletID(713), InletID(705), MyselfID(705)
+2026-07-08	14:38:54	[AgentServer]	server cord closed : 3
+2026-07-08	14:38:55	[FarmManager]	server cord closed : 3
+2026-07-08	14:38:56	[FarmManager]	server cord closed : 2
+2026-07-08	14:38:57	[GlobalManager]	server cord closed : 5
+2026-07-08	14:38:58	[GlobalManager]	server cord closed : 4
+2026-07-08	14:38:59	[GlobalManager]	server cord closed : 3
+2026-07-08	14:39:00	[GlobalManager]	server cord closed : 2
+2026-07-08	14:39:07	[GlobalManager]	server cord established : 1 (192.168.1.101:32000)
+2026-07-08	14:39:07	[GlobalManager]	GlobalManager is initialized successfully
+2026-07-08	14:39:10	[GlobalManager]	server cord established : 2 (192.168.1.101:55094)
+2026-07-08	14:39:11	[GlobalManager]	server cord established : 3 (192.168.1.101:55097)
+2026-07-08	14:39:13	[GlobalManager]	server cord established : 4 (192.168.1.101:55102)
+2026-07-08	14:39:13	IBUV: StringSize: 0, CharSet: ABCDEF1234567890
+2026-07-08	14:39:13	IBUV: CharSet(ABCDEF1234567890)
+2026-07-08	14:39:13	IBUV: Preserved image created : (dwImageCount)
+2026-07-08	14:39:15	[GlobalManager]	server cord established : 5 (192.168.1.101:55107)
+2026-07-08	14:39:15	[FarmManager]	server cord established : 1 (192.168.1.101:15880)
+2026-07-08	14:39:15	[FarmManager]	FarmManager is initialized successfully
+2026-07-08	14:39:17	[FarmManager]	server cord established : 2 (192.168.1.101:55112)
+2026-07-08	14:39:17	[AgentServer]	server cord established : 1 (192.168.1.101:15882)
+2026-07-08	14:39:17	[AgentServer]	AgentServer is initialized successfully
+2026-07-08	14:39:19	[FarmManager]	server cord established : 3 (192.168.1.101:55118)
+2026-07-08	14:39:19	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	14:39:19	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	14:39:19	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	14:39:19	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	14:39:19	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	14:39:19	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	14:39:19	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	14:39:19	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	14:39:19	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	14:39:19	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	14:39:19	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	14:39:19	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	14:39:19	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	14:39:19	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	14:39:19	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	14:39:19	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	14:39:19	[SR_ShardManager]	server cord established : 1 (192.168.1.101:15882)
+2026-07-08	14:39:20	[SR_ShardManager]	server cord established : 2 (192.168.1.101:55121)
+2026-07-08	14:39:20	[AgentServer]	server cord established : 2 (192.168.1.101:15883)
+2026-07-08	14:39:23	[SR_ShardManager]	Not found RefServerEvent[30001]. Check service and date value. progress next data
+2026-07-08	14:39:23	[SR_ShardManager]	Not found RefServerEvent[30002]. Check service and date value. progress next data
+2026-07-08	14:39:23	[SR_ShardManager]	Not found RefServerEvent[30003]. Check service and date value. progress next data
+2026-07-08	14:39:23	[SR_ShardManager]	Not found RefServerEvent[30004]. Check service and date value. progress next data
+2026-07-08	14:39:23	[SR_ShardManager]	SR_ShardManager is initialized successfully
+2026-07-08	14:39:24	[FarmManager]	server cord established : 4 (192.168.1.101:55133)
+2026-07-08	14:39:24	[SR_GameServer]	server cord established : 1 (192.168.1.101:15882)
+2026-07-08	14:39:24	[SR_GameServer]	server cord established : 2 (192.168.1.101:55132)
+2026-07-08	14:39:24	[AgentServer]	server cord established : 3 (192.168.1.101:15885)
+2026-07-08	14:39:25	[SR_ShardManager]	server cord established : 3 (192.168.1.101:55137)
+2026-07-08	14:39:25	[SR_GameServer]	server cord established : 3 (192.168.1.101:15883)
+2026-07-08	14:39:28	[SR_GameServer]	At initialize Server, Loading Siege data :: CurrentTax = 0
+2026-07-08	14:39:28	[SR_GameServer]	At initialize Server, Loading Siege data :: CurrentTax = 0
+2026-07-08	14:39:28	[SR_GameServer]	At initialize Server, Loading Siege data :: CurrentTax = 0
+2026-07-08	14:39:39	[SR_GameServer]	Not found RefServerEvent[30001]. Check service and date value. progress next data
+2026-07-08	14:39:39	[SR_GameServer]	Not found RefServerEvent[30002]. Check service and date value. progress next data
+2026-07-08	14:39:39	[SR_GameServer]	Not found RefServerEvent[30003]. Check service and date value. progress next data
+2026-07-08	14:39:39	[SR_GameServer]	Not found RefServerEvent[30004]. Check service and date value. progress next data
+2026-07-08	14:39:39	[SR_GameServer]	SR_GameServer is initialized successfully
+2026-07-08	14:46:02	[GlobalManager]	server cord closed : 1
+2026-07-08	14:46:04	[FarmManager]	server cord closed : 1
+2026-07-08	14:46:10	[AgentServer]	server cord closed : 1
+2026-07-08	14:46:10	[SR_ShardManager]	server cord closed - SessionID(1), CordID(1235), OutletID(705), InletID(704), MyselfID(705)
+2026-07-08	14:46:10	[SR_GameServer]	Disconnected from FarmManager! [#704]
+2026-07-08	14:46:10	[SR_GameServer]	server cord closed - SessionID(1), CordID(1239), OutletID(713), InletID(704), MyselfID(713)
+2026-07-08	14:46:11	[SR_ShardManager]	server cord closed - SessionID(2), CordID(1245), OutletID(707), InletID(705), MyselfID(705)
+2026-07-08	14:46:11	[SR_GameServer]	Disconnected from AgentServer! [#707]
+2026-07-08	14:46:11	[SR_GameServer]	At Shutdown Server, Save Siege data :: CurrentTax = 0
+2026-07-08	14:46:11	[SR_GameServer]	At Shutdown Server, Save Siege data :: CurrentTax = 0
+2026-07-08	14:46:11	[SR_GameServer]	At Shutdown Server, Save Siege data :: CurrentTax = 0
+2026-07-08	14:46:11	[SR_GameServer]	server cord closed - SessionID(2), CordID(1241), OutletID(707), InletID(713), MyselfID(713)
+2026-07-08	14:46:23	[SR_ShardManager]	OnExit() Called
+2026-07-08	15:02:44	[GlobalManager]	server cord established : 1 (192.168.1.101:32000)
+2026-07-08	15:02:44	[GlobalManager]	GlobalManager is initialized successfully
+2026-07-08	15:02:47	[GlobalManager]	server cord established : 2 (192.168.1.101:54040)
+2026-07-08	15:02:48	[GlobalManager]	server cord established : 3 (192.168.1.101:54043)
+2026-07-08	15:02:50	[GlobalManager]	server cord established : 4 (192.168.1.101:54050)
+2026-07-08	15:02:50	IBUV: StringSize: 0, CharSet: ABCDEF1234567890
+2026-07-08	15:02:50	IBUV: CharSet(ABCDEF1234567890)
+2026-07-08	15:02:50	IBUV: Preserved image created : (dwImageCount)
+2026-07-08	15:02:52	[GlobalManager]	server cord established : 5 (192.168.1.101:54055)
+2026-07-08	15:02:52	[FarmManager]	server cord established : 1 (192.168.1.101:15880)
+2026-07-08	15:02:52	[FarmManager]	FarmManager is initialized successfully
+2026-07-08	15:02:54	[FarmManager]	server cord established : 2 (192.168.1.101:54060)
+2026-07-08	15:02:54	[AgentServer]	server cord established : 1 (192.168.1.101:15882)
+2026-07-08	15:02:54	[AgentServer]	AgentServer is initialized successfully
+2026-07-08	15:02:56	[FarmManager]	server cord established : 3 (192.168.1.101:54066)
+2026-07-08	15:02:56	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	15:02:56	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	15:02:56	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	15:02:56	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	15:02:56	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	15:02:56	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	15:02:56	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	15:02:56	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	15:02:56	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	15:02:56	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	15:02:56	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	15:02:56	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	15:02:56	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	15:02:56	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	15:02:56	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	15:02:56	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	15:02:56	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	15:02:56	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	15:02:56	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	15:02:56	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	15:02:56	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	15:02:56	[SR_ShardManager]	Schedule Manager : g_pServerBodyOfMyself is NULL !!
+2026-07-08	15:02:56	[SR_ShardManager]	server cord established : 1 (192.168.1.101:15882)
+2026-07-08	15:02:56	[AgentServer]	server cord established : 2 (192.168.1.101:15883)
+2026-07-08	15:02:56	[SR_ShardManager]	server cord established : 2 (192.168.1.101:54063)
+2026-07-08	15:03:00	[SR_ShardManager]	Not found RefServerEvent[30001]. Check service and date value. progress next data
+2026-07-08	15:03:00	[SR_ShardManager]	Not found RefServerEvent[30002]. Check service and date value. progress next data
+2026-07-08	15:03:00	[SR_ShardManager]	Not found RefServerEvent[30003]. Check service and date value. progress next data
+2026-07-08	15:03:00	[SR_ShardManager]	Not found RefServerEvent[30004]. Check service and date value. progress next data
+2026-07-08	15:03:00	[SR_ShardManager]	SR_ShardManager is initialized successfully
+2026-07-08	15:03:01	[FarmManager]	server cord established : 4 (192.168.1.101:54080)
+2026-07-08	15:03:01	[SR_GameServer]	server cord established : 1 (192.168.1.101:15882)
+2026-07-08	15:03:01	[SR_GameServer]	server cord established : 2 (192.168.1.101:54076)
+2026-07-08	15:03:01	[AgentServer]	server cord established : 3 (192.168.1.101:15885)
+2026-07-08	15:03:02	[SR_ShardManager]	server cord established : 3 (192.168.1.101:54083)
+2026-07-08	15:03:02	[SR_GameServer]	server cord established : 3 (192.168.1.101:15883)
+2026-07-08	15:03:05	[SR_GameServer]	At initialize Server, Loading Siege data :: CurrentTax = 0
+2026-07-08	15:03:05	[SR_GameServer]	At initialize Server, Loading Siege data :: CurrentTax = 0
+2026-07-08	15:03:05	[SR_GameServer]	At initialize Server, Loading Siege data :: CurrentTax = 0
+2026-07-08	15:03:12	[SR_GameServer]	Not found RefServerEvent[30001]. Check service and date value. progress next data
+2026-07-08	15:03:12	[SR_GameServer]	Not found RefServerEvent[30002]. Check service and date value. progress next data
+2026-07-08	15:03:12	[SR_GameServer]	Not found RefServerEvent[30003]. Check service and date value. progress next data
+2026-07-08	15:03:12	[SR_GameServer]	Not found RefServerEvent[30004]. Check service and date value. progress next data
+2026-07-08	15:03:12	[SR_GameServer]	SR_GameServer is initialized successfully
